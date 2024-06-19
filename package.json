@@ -40,13 +40,13 @@
     "vuepress-plugin-md-enhance": "^2.0.0-beta.131"
   },
   "dependencies": {
-    "@balancer/sdk": "^0.0.3",
+    "@balancer/sdk": "^0.7.0",
     "@ethersproject/bignumber": "^5.7.0",
     "@headlessui/vue": "^1.7.14",
     "axios": "^1.4.0",
     "color": "^4.2.3",
     "ethereum-blockies": "^0.1.1",
-    "ethers": "^6.4.0",
+    "ethers": "^6.13.1",
     "mersenne-twister": "^1.1.0",
     "vue-prism-component": "^2.0.0",
     "vue-virtual-scroller": "^2.0.0-beta.8",
